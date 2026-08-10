@@ -6,7 +6,6 @@ Web Developer
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [Rachapon.navy@gmail.com](mailto:Rachapon.navy@gmail.com)
-* 🧠  I'm learning ReactJs, NextJs
 
 ### Skills
 
